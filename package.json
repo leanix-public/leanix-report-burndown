@@ -45,7 +45,7 @@
 		"@leanix/reporting": "0.2.0",
 		"bootstrap": "3.3.7",
 		"c3": "0.4.17",
-		"moment": "2.18.1",
+		"moment": "2.19.3",
 		"moment-range": "3.0.3"
 	}
 }
